@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://github.com/karan819381/Interactive-rating-component)
-- Live Site URL: [Live](https://karan819381.github.io/Interactive-rating-component)
+- Solution URL: [Solution](https://github.com/bhuvi819381/Interactive-rating-component)
+- Live Site URL: [Live](https://bhuvi819381.github.io/Interactive-rating-component)
 
 ## My process
 
